@@ -1,0 +1,10 @@
+
+path: '/content/drive/MyDrive/adl_project/dataset'
+train: train/images
+val: val/images
+
+# class names
+names:
+  0: cow
+  1: dog
+  2: human
